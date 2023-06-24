@@ -59,9 +59,9 @@ The application implements the following use cases:
 
 ![Screenshot of the app](images/reg.png)
 
-![Screenshot of the app](images/Inv-site.png)
+![Screenshot of the app](images/inv-site.png)
 
-![Screenshot of the app](images/inv-message.png)
+![Screenshot of the app](images/Inv-message.png)
 
 ![Screenshot of the app](images/Other.png)
 
