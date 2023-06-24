@@ -59,11 +59,11 @@ The application implements the following use cases:
 
 ![Screenshot of the app](images/reg.jpg)
 
-![Screenshot of the app](images/inv and site.jpg)
+![Screenshot of the app](images/inv-site.png)
 
-![Screenshot of the app](images/Inv message.jpg)
+![Screenshot of the app](images/inv-message.jpg)
 
-![Screenshot of the app](images/Other.jpg)
+![Screenshot of the app](images/other.jpg)
 
 ## Technologies Used
 
