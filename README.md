@@ -57,13 +57,13 @@ The application implements the following use cases:
 
 ## Screenshots
 
-![Screenshot of the app](images/reg.jpg)
+![Screenshot of the app](images/reg.png)
 
 ![Screenshot of the app](images/inv-site.png)
 
-![Screenshot of the app](images/inv-message.jpg)
+![Screenshot of the app](images/inv-message.png)
 
-![Screenshot of the app](images/other.jpg)
+![Screenshot of the app](images/other.png)
 
 ## Technologies Used
 
