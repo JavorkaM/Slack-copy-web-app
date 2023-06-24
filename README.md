@@ -55,8 +55,15 @@ The application implements the following use cases:
    - Users can view the list of channel members if they are also members of the channel.
    - In the status bar,
 
- users can see who is currently typing a message in any active channel.
-   - Clicking on a nickname reveals the detailed text in real-time, before the sender sends the message.
+## Screenshots
+
+![Screenshot of the app](images/reg.jpg)
+
+![Screenshot of the app](images/inv and site.jpg)
+
+![Screenshot of the app](images/Inv message.jpg)
+
+![Screenshot of the app](images/Other.jpg)
 
 ## Technologies Used
 
