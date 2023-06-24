@@ -1,0 +1,9 @@
+
+.gitattributes
+VPWA_projekt/src/layouts/MainLayout.vue
+VPWA_projekt/src/pages/IndexPage.vue
+VPWA_server/config/database.ts
+VPWA_server/package-lock.json
+VPWA_server/.env.example
+
+VPWA_server/config/database.ts

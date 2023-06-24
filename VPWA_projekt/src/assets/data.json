@@ -1,0 +1,265 @@
+{
+  "StatusItemsList":[{
+    "statusName": "Online",
+    "statusColor": "green"
+  },
+  {
+    "statusName": "Do Not Disturb",
+    "statusColor": "red"
+  },
+  {
+    "statusName": "Offline",
+    "statusColor": "grey"
+  }],
+
+"channelMembers":[
+{
+  "name": "Mee"
+},
+{
+  "name": "Mee2"
+},
+{
+  "name": "Mee3"
+},
+{
+  "name": "CHMee2"
+},
+{
+  "name": "CHMee3"
+},
+{
+  "name": "Mee2"
+},
+{
+  "name": "Mee"
+},
+{
+  "name": "Mee2"
+},
+{
+  "name": "Mee"
+},
+{
+  "name": "Mee2"
+},
+{
+  "name": "Mee"
+},
+{
+  "name": "Mee2"
+},
+{
+  "name": "Mee"
+},
+{
+  "name": "Mee2"
+}
+],
+"channelMemberCount":16,
+"channelItemsList":[
+  {
+    "icon": "#",
+    "label": "Channel1",
+    "type": "private",
+    "typingMessage":[
+      {
+        "typing": true,
+        "name": "Mee",
+        "text": "Typing this message"
+    }
+  ],
+    "messagesList":[ {
+      "name": "Mee",
+      "text": "Message",
+      "sent": true
+    },
+    {
+      "name": "Mee2",
+      "text": "Message2",
+      "sent": false
+    },
+    {
+      "name": "Mee",
+      "text": "Message",
+      "sent": true
+    },
+    {
+      "name": "Mee2",
+      "text": "Message2",
+      "sent": false
+    },
+    {
+      "name": "Mee",
+      "text": "Message",
+      "sent": true
+    },
+    {
+      "name": "Mee2",
+      "text": "Message2",
+      "sent": false
+    },
+    {
+      "name": "Mee",
+      "text": "Message",
+      "sent": true
+    },
+    {
+      "name": "Mee2",
+      "text": "Message2",
+      "sent": false
+    },
+    {
+      "name": "Mee",
+      "text": "Message",
+      "sent": true
+    },
+    {
+      "name": "Mee2",
+      "text": "Message2",
+      "sent": false
+    },
+    {
+      "name": "Mee",
+      "text": "Message",
+      "sent": true
+    },
+    {
+      "name": "Mee2",
+      "text": "Message2",
+      "sent": false
+    },
+    {
+      "name": "Mee",
+      "text": "Message",
+      "sent": true
+    },
+    {
+      "name": "Mee2",
+      "text": "Message2",
+      "sent": false
+    },
+    {
+      "name": "Mee",
+      "text": "Message",
+      "sent": true
+    },
+    {
+      "name": "Mee2",
+      "text": "Message2",
+      "sent": false
+    },
+    {
+      "name": "Mee",
+      "text": "Message",
+      "sent": true
+    },
+    {
+      "name": "Mee2",
+      "text": "Message2",
+      "sent": false
+    },
+    {
+      "name": "Mee",
+      "text": "Message",
+      "sent": true
+    },
+    {
+      "name": "Mee2",
+      "text": "Message2",
+      "sent": false
+    }
+  ]
+  },
+  {
+    "icon": "#",
+    "label": "Channel2",
+    "type": "public",
+    "typingMessage":[
+      {
+        "typing": true,
+        "name": "CHMee2",
+        "text": "Typing this message"
+      },
+      {
+        "typing": true,
+        "name": "CHMee3",
+        "text": "Typing another message"
+      }
+    ],
+    "messagesList":[
+    {
+      "name": "CHMee2",
+      "text": "CHMessage2",
+      "sent": false
+    },
+    {
+      "name": "CHMee",
+      "text": "CHMessage",
+      "sent": true
+    },
+    {
+      "name": "CHMee2",
+      "text": "CHMessage2",
+      "sent": false
+    },
+    {
+      "name": "CHMee",
+      "text": "CHMessage",
+      "sent": true
+    },
+    {
+      "name": "CHMee2",
+      "text": "CHMessage2",
+      "sent": false
+    },
+    {
+      "name": "CHMee",
+      "text": "CHMessage",
+      "sent": true
+    },
+    {
+      "name": "CHMee2",
+      "text": "CHMessage2",
+      "sent": false
+    },
+    {
+      "name": "CHMee",
+      "text": "CHMessage",
+      "sent": true
+    },
+    {
+      "name": "CHMee2",
+      "text": "CHMessage2",
+      "sent": false
+    },
+    {
+      "name": "CHMee",
+      "text": "CHMessage",
+      "sent": true
+    },
+    {
+      "name": "CHMee2",
+      "text": "CHMessage2",
+      "sent": false
+    },
+    {
+      "name": "CHMee",
+      "text": "CHMessage",
+      "sent": true
+    },
+    {
+      "name": "CHMee2",
+      "text": "CHMessage2",
+      "sent": false
+    },
+    {
+      "name": "CHMee",
+      "text": "CHMessage",
+      "sent": true
+    }
+  ]
+  }
+]
+
+}
